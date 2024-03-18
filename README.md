@@ -739,6 +739,7 @@ algorithms, knowledgebase and AI technology.
 * [Betaface](https://www.betaface.com/demo.html)
 * [Search4faces](https://search4faces.com/)
 * [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+* [Geospyai] ("https://geospy.ai/") -gui version of the tool above. While it is not too accurate, it can reliably identify what country the picture was taken, which helps narrow the search down
 
 ## [↑](#-table-of-contents) Image Analysis
 
